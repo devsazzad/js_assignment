@@ -21,7 +21,7 @@ function detore(degrees) {
     return degrees * (Math.PI / 180);
   }
   
-  // Example usage:
+  
   const degrees = 90;
   const radians = detore(90);
 //  console.log(radians);
